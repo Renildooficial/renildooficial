@@ -5,10 +5,8 @@
 ### 💻 Estudante de Informática | Java & Web Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Renildooficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renildo-candido-2b8829413/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renildo-candido-2b8829413/)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renildooficial3@gmail.com)
-
-
 
 </div>
 
@@ -29,25 +27,25 @@ Atualmente, desenvolvo projetos utilizando tecnologias como **Java, Java Web, PH
 ### 💻 Linguagens de Programação
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,php,js,cpp,c,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,cpp,c,html,css,sql" />
 </p>
 
 ### 🌐 Desenvolvimento Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
 </p>
 
 ### ⚙️ Backend & Bases de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,php,mysql,maven" />
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,maven" />
 </p>
 
 ### 🛠️ Ferramentas & Ambiente de Desenvolvimento
 
 <p>
-<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,mysql,linux" />
 </p>
 
 ---
@@ -208,11 +206,13 @@ Estou sempre interessado em:
 
 ### 📫 Entre em contacto comigo
 
-📧 **Email:** SEU_EMAIL_AQUI
+📧 **Email:** [renildooficial3@gmail.com](mailto:renildooficial3@gmail.com)
 
-💼 **LinkedIn:** SEU_LINKEDIN_AQUI
+💼 **LinkedIn:** [Renildo Cândido](https://www.linkedin.com/in/renildo-candido-2b8829413/)
 
-🌐 **Portfólio:** EM_BREVE
+🐙 **GitHub:** [@Renildooficial](https://github.com/Renildooficial)
+
+🌐 **Portfólio:** Em breve
 
 ---
 
