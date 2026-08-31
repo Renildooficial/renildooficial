@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE_SEU_LINKEDIN_AQUI)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
-<img src="https://github.com/Renildooficial/?username=https://github.com/Renildooficial&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=Renildooficial&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
 
 </div>
 
