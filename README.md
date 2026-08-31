@@ -4,11 +4,11 @@
 
 ### 💻 Estudante de Informática | Java & Web Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE_SEU_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Renildooficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renildo-candido-2b8829413/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renildooficial3@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Renildooficial&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+
 
 </div>
 
@@ -139,9 +139,9 @@ Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renildooficial&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=2F80ED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renildooficial&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=2F80ED&text_color=ffffff"/>
 
 </div>
 
@@ -151,7 +151,7 @@ Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=transparent&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
+<img src="https://streak-stats.demolab.com?user=Renildooficial&theme=transparent&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
 
 </div>
 
@@ -161,7 +161,7 @@ Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Renildooficial/Renildooficial/output/github-contribution-grid-snake.svg)
 
 </div>
 
