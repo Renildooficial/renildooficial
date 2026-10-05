@@ -81,7 +81,7 @@ Desenvolvo projectos com **Java, Java Web, PHP, JavaScript, MySQL e Bootstrap**,
 
 # 🚀 Projectos em destaque
 
-## 📱 App Achados e Perdidos
+## 📱 App ACHA AI
 
 Aplicação **Android** que liga quem **encontrou** um objecto a quem o **perdeu**. Qualquer pessoa pode publicar um item que apanhou, e o dono entra em contacto directamente com quem o encontrou.
 
