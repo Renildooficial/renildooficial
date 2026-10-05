@@ -1,75 +1,107 @@
 <div align="center">
 
-# 👋 Olá, eu sou Renildo Cândido!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:8b5cf6&height=200&section=header&text=Renildo%20C%C3%A2ndido&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Kotlin%20%7C%20Web%20%7C%20Android&descAlignY=60&descSize=18" width="100%"/>
 
-### 💻 Estudante de Informática | Java & Web Developer
+<a href="https://github.com/Renildooficial/Renildooficial">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica;Java+%26+Web+Developer;Android+com+Kotlin;Transformo+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Renildooficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renildo-candido-2b8829413/)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renildooficial3@gmail.com)
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renildooficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renildo-candido-2b8829413/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renildooficial3@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258865383272)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_renas258/)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Licenciatura em Informática**, apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
 
-Atualmente, desenvolvo projetos utilizando tecnologias como **Java, Java Web, PHP, JavaScript, MySQL e Bootstrap**. Tenho interesse em aprofundar os meus conhecimentos em desenvolvimento **Backend, Full Stack e Engenharia de Software**.
+Desenvolvo projectos com **Java, Java Web, PHP, JavaScript, MySQL e Bootstrap**, e agora também crio **aplicações Android com Kotlin**, usando **Firebase** e **Supabase** como backend. Quero aprofundar o meu conhecimento em **Backend, Full Stack e Engenharia de Software**.
 
 > 💡 **"Transformar ideias em soluções através da tecnologia."**
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-### 💻 Linguagens de Programação
+### 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,cpp,c,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,php,js,cpp,c,html,css,sql" />
 </p>
 
-### 🌐 Desenvolvimento Web
+### 🌐 Desenvolvimento web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
 </p>
 
-### ⚙️ Backend & Bases de Dados
+### 📱 Desenvolvimento mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,maven" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-### 🛠️ Ferramentas & Ambiente de Desenvolvimento
+### ☁️ Backend, nuvem e bases de dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,firebase,supabase,maven" />
+</p>
+
+### 🧰 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,git,github,linux" />
 </p>
 
 ---
 
-## 🔥 Principais Áreas de Interesse
+## 🔥 Áreas de interesse
 
 ```text
 💻 Desenvolvimento Web
+📱 Desenvolvimento Android (Kotlin)
 ☕ Desenvolvimento Java
-🌐 Java Web — Servlet & JSP
+🌐 Java Web: Servlet & JSP
 🐘 Desenvolvimento PHP
+☁️ Firebase & Supabase
 🗄️ Bases de Dados
-⚙️ Arquitetura MVC
+⚙️ Arquitectura MVC
 🔐 Segurança de Sistemas
 📊 Análise e Desenvolvimento de Software
 ```
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projectos em destaque
 
-### 🎓 Sistema de Gestão Académica
+## 📱 App Achados e Perdidos
 
-Sistema académico desenvolvido com foco na gestão de:
+Aplicação **Android** que liga quem **encontrou** um objecto a quem o **perdeu**. Qualquer pessoa pode publicar um item que apanhou, e o dono entra em contacto directamente com quem o encontrou.
+
+**Como funciona:**
+
+* 📸 Publicar o objecto encontrado, com foto, descrição e local
+* 🔎 Pesquisar e filtrar os itens publicados
+* 📞 Contactar quem encontrou o objecto
+* ✅ Marcar o item como devolvido
+* 🔐 Autenticação de utilizadores
+
+**Tecnologias:**
+
+`Kotlin` • `Android Studio` • `Firebase` • `Supabase`
+
+---
+
+## 🎓 Sistema de Gestão Académica
+
+Sistema académico para a gestão de:
 
 * 👨‍🎓 Estudantes
 * 👨‍🏫 Docentes
@@ -77,7 +109,7 @@ Sistema académico desenvolvido com foco na gestão de:
 * 📝 Notas
 * 📅 Presenças
 * 📊 Relatórios
-* 🔐 Sistema de autenticação e níveis de acesso
+* 🔐 Autenticação e níveis de acesso
 
 **Tecnologias:**
 
@@ -85,9 +117,9 @@ Sistema académico desenvolvido com foco na gestão de:
 
 ---
 
-### 👥 Sistema de Gestão de Recursos Humanos
+## 👥 Sistema de Gestão de Recursos Humanos
 
-Sistema completo para gestão de funcionários e processos administrativos.
+Sistema completo para a gestão de funcionários e processos administrativos.
 
 **Funcionalidades:**
 
@@ -105,9 +137,9 @@ Sistema completo para gestão de funcionários e processos administrativos.
 
 ---
 
-### 📚 Sistema de Gestão de Biblioteca
+## 📚 Sistema de Gestão de Biblioteca
 
-Aplicação Desktop desenvolvida para facilitar a gestão de bibliotecas.
+Aplicação Desktop para facilitar a gestão de bibliotecas.
 
 **Funcionalidades:**
 
@@ -123,9 +155,9 @@ Aplicação Desktop desenvolvida para facilitar a gestão de bibliotecas.
 
 ---
 
-### 🌐 Projetos Web
+## 🌐 Projectos Web
 
-Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
+Interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 **Tecnologias:**
 
@@ -145,7 +177,7 @@ Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Sequência de contribuições
 
 <div align="center">
 
@@ -165,28 +197,30 @@ Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 ---
 
-## 🎯 Actualmente Estou a Trabalhar em
+## 🎯 Actualmente estou a trabalhar em
 
-🔹 Desenvolvimento de sistemas **Java Web**
+🔹 Aplicações **Android com Kotlin**
 
-🔹 Arquitectura **MVC**
+🔹 Integração com **Firebase** e **Supabase**
+
+🔹 Sistemas **Java Web** com arquitectura **MVC**
 
 🔹 Sistemas de gestão empresariais
 
-🔹 Desenvolvimento de aplicações **Full Stack**
+🔹 Aplicações **Full Stack**
 
-🔹 Melhoramento das minhas competências em **Java e PHP**
-
-🔹 Criação de interfaces modernas e responsivas
+🔹 Interfaces modernas e responsivas
 
 ---
 
-## 🌱 Actualmente Estou a Aprender
+## 🌱 Actualmente estou a aprender
 
 ```text
+📱 Kotlin e Android Avançado
+☁️ Firebase & Supabase
 ☕ Java Avançado
 🌐 Java Web
-⚙️ Arquitetura MVC
+⚙️ Arquitectura MVC
 🗄️ Bases de Dados Avançadas
 🔐 Segurança de Aplicações Web
 🚀 Desenvolvimento Full Stack
@@ -194,11 +228,12 @@ Desenvolvimento de interfaces e sistemas web modernos, responsivos e dinâmicos.
 
 ---
 
-## 🤝 Vamos Conectar?
+## 🤝 Vamos conectar?
 
 Estou sempre interessado em:
 
 * 💻 Novos projectos
+* 📱 Criação de apps e sites
 * 🤝 Colaborações
 * 🚀 Desenvolvimento de software
 * 📚 Aprendizagem e troca de conhecimentos
@@ -208,9 +243,13 @@ Estou sempre interessado em:
 
 📧 **Email:** [renildooficial3@gmail.com](mailto:renildooficial3@gmail.com)
 
+💬 **WhatsApp:** [+258 86 538 3272](https://wa.me/258865383272)
+
 💼 **LinkedIn:** [Renildo Cândido](https://www.linkedin.com/in/renildo-candido-2b8829413/)
 
 🐙 **GitHub:** [@Renildooficial](https://github.com/Renildooficial)
+
+📸 **Instagram:** [@im_renas258](https://www.instagram.com/im_renas258/)
 
 🌐 **Portfólio:** Em breve
 
@@ -218,7 +257,7 @@ Estou sempre interessado em:
 
 <div align="center">
 
-### ⭐ Obrigado por visitar o meu perfil!
+### ⭐ Obrigado por visitares o meu perfil!
 
 **Se gostares dos meus projectos, deixa uma ⭐ nos repositórios!**
 
@@ -229,5 +268,7 @@ Estou sempre interessado em:
 <br>
 
 ### 🇲🇿 Desenvolvido por Renildo Cândido | Moçambique
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
